@@ -43,10 +43,16 @@ Proposed business improvements
 🏆 Certifications
 
 Google Data Analytics (Coursera)
+SQL Practice – LeetCode/HackerRank
 
+🏅 Hackathon Credentials
+
+Code4Change 2025–26 – Participant
+Built a Smarter Court Scheduling System to improve efficiency and speed of justice delivery.
+Designed to reduce case delays, optimize daily court workflow, and support faster judicial processing.
 
 📫 Contact Me
 
 📧 Email: Khan.arshiya0898@gmail.com
 💼 LinkedIn: www.linkedin.com/in/arshiya-khan-bb8192210
-SQL Practice – LeetCode/HackerRank
+
